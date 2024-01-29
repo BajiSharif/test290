@@ -1,2 +1,7 @@
 initisl content
+<<<<<<< HEAD
 content in branchy
+=======
+content in branchx
+more changes in branchx
+>>>>>>> branchx
